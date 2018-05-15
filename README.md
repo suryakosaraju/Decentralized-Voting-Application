@@ -4,3 +4,4 @@ It utilizes the Ethereum testrpc which simulates the ethereum blockchain protoco
 The cake filling that makes this application special is that it is decentralized which makes the transactions immutable. 
 This means that the votes being submitted by the voters cannot be modified hence making them secure.
 
+Made it from a tut for practice so cut me some slack. :)
