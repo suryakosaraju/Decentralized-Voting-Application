@@ -1,0 +1,11 @@
+{
+  "name": "VotingDapp",
+  "version": "0.0.1",
+  "description": " first decentralized application",
+  "author": "",
+  "devDependencies": {
+    "ethereumjs-testrpc": "^4.1.3",
+    "solc": "^0.4.23",
+    "web3": "^0.20.6"
+  }
+}
